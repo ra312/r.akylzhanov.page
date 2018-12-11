@@ -1,1 +1,1 @@
-# r.akylzhanov.page
+My experimental local webpage written using Jekyll package
